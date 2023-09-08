@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+
+body{
+background-color: #1d309c;
+}
+
+canvas {
+  background: #7979ff;
+  margin: 100px 0px 0px 170px
+}
+
+#start{
+  background: rgb(69, 69, 255);
+  width: 200px;
+  height: 30px;
+  border: 2px solid black;
+  border-radius: 20px;
+  cursor: pointer;
+  position: absolute;
+  top: 80%;
+  left: 14%;
+}
+#start2{
+  background: #8383ff;
+  width: 250px;
+  height: 40px;
+  border: 2px solid black;
+  border-radius: 20px;
+  cursor: pointer;
+  position: absolute;
+  top: 60%;
+  left: 26%;
+}
+
+.back{
+  background: #1d309c; 
+  width: 980px;
+  height: 470px;
+  position: absolute;
+  top: 16.6%;
+  left:13.0%;
+
+}
+
+
+#titanTITU{
+  display: flex;
+  justify-content: center;
+  font-size: 90px;
+  font-weight: bold;
+  margin: 250px 30px 0px 0px ;
+  color:white;
+  font-family: 'Irish Grover';
+  -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+
+#TITANIC{
+  position: absolute;
+  top: 22%;
+  left:30%
+}
+
+.reset{
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+  background: rgba(0, 0, 0, 0);
+  border: none;
+  position:absolute;
+  top: 57%;
+  left: 45%;
+  font-size: 25px;
+  font-weight: bold;
+  cursor: pointer;
+}
