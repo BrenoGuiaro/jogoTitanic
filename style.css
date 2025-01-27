@@ -34,8 +34,8 @@ canvas {
 
 .back{
   background: #1d309c; 
-  width: 980px;
-  height: 470px;
+  width: 992px;
+  height: 480px;
   position: absolute;
   top: 16.6%;
   left:13.0%;
@@ -67,8 +67,8 @@ canvas {
   background: rgba(0, 0, 0, 0);
   border: none;
   position:absolute;
-  top: 57%;
-  left: 45%;
+  top: 70%;
+  left: 47%;
   font-size: 25px;
   font-weight: bold;
   cursor: pointer;

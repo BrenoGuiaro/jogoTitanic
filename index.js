@@ -191,10 +191,10 @@ document.addEventListener('keydown', (e) => {
     case 'ArrowDown':
       player.speedY += 1
       break
-    case 'ArrowLeft': // left arrow
+    case 'ArrowLeft': 
       player.speedX -= 1
       break
-    case 'ArrowRight': // right arrow
+    case 'ArrowRight':
       player.speedX += 1
       break
   }
